@@ -1,0 +1,95 @@
+<!--Create an HTML file (e.g. first_page.html) that specifies a page that contains a heading and two paragraphs of text. Use the HTML tags <h1>,
+     </h1>, <p> and </p> in this exercise. As the texts in the heading and paragraphs you can use any texts you like. 10 Marks
+
+Add an unordered list to this web page. An unordered list should look like the following when  it is shown by a browser:
+An unordered list can be specified with the tags <ul> and </ul>.
+An unordered list typically contains a number of list items that can be specified with tags <li> and </li>.
+After you have created your unordered list, check out what happens when you convert it to an ordered list by replacing the tags <ul> and 
+</ul> with <ol> and</ol>, respectively.
+
+Add an image to your web page. In this exercise you must use the <img> tag. As an image, you can use any .jpg or .png file you find on the
+Internet.
+
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Question1</title>
+     <style>
+          body{
+               background-color:#c3fdb8;
+          }
+          a{
+               font-size: 30px;
+               font-style: italic;
+               color: rgb(0, 45, 128);
+          
+          }
+          a:hover{
+               color: rgb(255, 0, 0);
+          }
+          #img{
+               text-align:center;
+               margin-top: -280px;
+               margin-bottom: 10px;
+               margin-left: 600px;
+          }
+          #link{
+               text-align: center;
+               margin-left: -750px;
+               margin-top: -50px;
+          }
+          h1{
+               text-align: center;
+          }
+          p{
+               font-size: 20px;
+          }
+          h4{
+               font-size: 20px;
+          }
+          li{
+               font-size: 15px;
+          }
+     </style>
+</head>
+<body>
+     <h1>Global Warming</h1>
+     <p>“Global warming is a gradual increase in the earth’s temperature generally due to the 
+         greenhouse effect caused by increased levels of carbon dioxide, CFCs, and other pollutants. “</p>
+     <p>Global warming is the phenomenon of a gradual increase in the temperature near the earth’s surface. 
+        This phenomenon has been observed over the past one or two centuries. This change has disturbed the climatic pattern of the earth.
+        However, the concept of global warming is quite controversial but the scientists have provided relevant data in support of the 
+        fact that the temperature of the earth is rising constantly.<br>
+        There are several causes of global warming, which have a negative effect on humans, plants and animals. These causes may be natural
+         or might be the outcome of human activities. In order to curb the issues, it is very important to understand the negative impacts of
+          global warming.
+     </p>
+     <h4>Man-made Causes of Global Warming</h4>
+     <ul>
+          <li>Deforestation</li>
+          <li>Use of Vehicles</li>
+          <li>Chlorofluorocarbon</li>
+          <li>Industrial Development</li>
+     </ul>
+
+     <h4>Natural Causes of Global Warming</h4>
+     <ol type="I">
+          <li>Volcanoes</li>
+          <li>Water Vapour</li>
+          <li>Melting Permafrost</li>
+          <li>Forest Blazes</li>
+     </ol>
+
+     <div id="img">
+          <img src="https://image.slidesharecdn.com/globalwarming-131227061910-phpapp02/95/global-warming-6-638.jpg?cb=1388125270" height=400px width=600px>
+     </div>
+     <div id="link">
+     <a href="another_page.html" target="_blank" >Go to another Page</a>
+     </div>
+
+</body>
+</html>

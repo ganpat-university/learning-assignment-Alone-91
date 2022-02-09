@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="5Registration-Form.css">
+
+</head>
+<body>
+    <nav>
+        <label class="title">AGRA</label>
+        <ul>
+            <li><a href="1Home.html">Home</a></li>
+            <li><a href="2Heritage.html">Heritage</a></li>
+            <li><a href="3Hotel-Booking.html">Hotel Booking</a></li>
+            <li><a href="4Gallery.html">Gallery</a></li>
+            <li><a href="5Registration-Form.html">Registration Form</a></li>
+        </ul>
+    </nav>
+    <h1>Registration Form</h1>
+    <form  name = "myform"action="#" autocomplete="off" onsubmit="return validation()">
+        <table  cellspading="10"align="center" >
+
+            <tr>
+                <td id="st">
+                    <label for="UserId"><b>User ID:</b></label>
+                </td>
+                <td id="sst">
+                    <input type="text" id="user" placeholder="User ID">
+                    <br><span id="users"></span>
+                </td>
+            </tr>
+            <br>
+            <br>
+            <tr>
+                <td id="st">
+                    <label for="Password"><b>Password:</b></label>
+                </td>
+                <td id="sst">
+                    <input type="password" id="pass" placeholder="Password">
+                    <br><span id="passs"></span>
+                </td>
+            </tr>
+
+            <tr>
+                <td id="st">
+                    <label for="Name"><b>Name:</b></label>
+                </td>
+                <td id="sst">
+                    <input type="text" id="name" placeholder="Name">
+                    <br><span id="names"></span>
+                </td>
+            </tr>
+
+            <tr>
+                <td id="st">
+                    <label for="Address"><b>Address:</b></label>
+                </td>
+                <td id="sst">
+                    <input type="text" id="add" placeholder="Optional">
+                    <br><span id="adds"></span>
+                </td>
+            </tr>
+            <tr>
+                <td id="st">
+                    <label for="city"><b>City:</b></label>
+                </td>
+                <td id="sst">
+                    <select name="city" id="city">
+                    <option value="Vadodara">Vadodara</option>
+                    <option value="Pune">Pune</option>
+                    <option value="Delhi">Delhi</option>
+                    <option value="Hyderabad">Hyderabad</option>
+                    </select>
+                    <br><span id="citys"></span>
+                </td>
+            </tr>
+
+            <tr>
+                <td id="st">
+                    <label for="Zipcode"><b>Zipcode:</b></label>
+                </td>
+                <td id="sst">
+                    <input type="text" id="zip" placeholder="Optional">
+                    <br><span id="zips"></span>
+                </td>
+            </tr>
+
+            <tr>
+                <td id="st">
+                    <label for="EmailID"><b>EmailID:</b></label>
+                </td>
+                <td id="sst">
+                    <input type="email" id="email" placeholder="abc@xyz.com">
+                    <br><span id="emails"></span>
+                </td>
+            </tr>
+            <tr></tr>
+            <tr>
+                <td id="st">
+                    <label for="Sex"><b>Sex:</b></label>
+                </td>
+                <td id="sst">
+                    <input type="radio" id="sex" name="sex"> Male &nbsp;&nbsp; <input type="radio" id="sex" name="sex"> Female
+                    <br><span id="sexs"></span>
+                </td>
+            </tr>
+            <tr></tr>
+            <tr>
+                <td id="st">
+                    <label for="Language"><b>Language:</b></label>
+                </td>
+                <td id="sst">
+                    <input type="checkbox" id="lang" name="lang"> English &nbsp;&nbsp; <input type="checkbox" id="sex" name="lang"> NonEnglish;
+                    <br><span id="langs"></span>
+                </td>
+            </tr>
+            <tr></tr>
+            <tr>
+                <td id="st">
+                    <label for="About"><b>About:</b></label>
+                </td>
+                <td id="sst">
+                    <textarea id="about" placeholder="Optional" rows="8" cols="25"></textarea>
+                    <br><span id="abouts"></span>
+                </td>
+            </tr>
+            <tr></tr>
+            
+            <tr>
+                <td id="sst1">
+                <input type="submit" id="btn" placeholder="">
+                </td>
+            </tr>
+
+        </table>
+    </form>
+
+<script type="text/javascript">
+    function validation()
+{
+    var user = document.getElementById('user').value;
+    var pass = document.getElementById('pass').value;
+    var name = document.getElementById('name').value;
+    var email= document.getElementById('email').value;
+    
+    
+
+    if((user.length<=5)||(user.length>=20))
+    {
+        document.getElementById('users').innerHTML="** Required and Length must be 5 to 20**";
+    }
+    if((pass.length<=5)||(pass.length>=20))
+    {
+        document.getElementById('passs').innerHTML="** Required and Length must be 7 to 20**";
+    }
+    if(!isNaN(name))
+    {
+        document.getElementById('names').innerHTML="** Required and alphabte only**";
+    }
+    if(email=="")
+    {
+        document.getElementById('emails').innerHTML="** Email is necessary **";
+    }
+
+    var sex = document.myform.sex;
+    for(var i=0;i<sex.length;i++){
+        if(sex[i].checked==true){
+            break;
+        }
+        document.getElementById('sexs').innerHTML="**Please Select anyone**";
+    
+    }
+
+        var lang = document.myform.lang;
+    for(var i=0;i<lang.length;i++){
+        if(lang[i].checked==true){
+            break;
+        }
+        document.getElementById('langs').innerHTML="**Please Select anyone**";
+
+    }
+}
+
+
+</script>
+
+</body>
+</html>

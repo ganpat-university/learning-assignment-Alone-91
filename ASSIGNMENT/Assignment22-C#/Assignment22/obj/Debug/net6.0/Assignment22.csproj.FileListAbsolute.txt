@@ -1,0 +1,15 @@
+C:\Users\keyur\source\repos\Assignment22\Assignment22\bin\Debug\net6.0\Assignment22.exe
+C:\Users\keyur\source\repos\Assignment22\Assignment22\bin\Debug\net6.0\Assignment22.deps.json
+C:\Users\keyur\source\repos\Assignment22\Assignment22\bin\Debug\net6.0\Assignment22.runtimeconfig.json
+C:\Users\keyur\source\repos\Assignment22\Assignment22\bin\Debug\net6.0\Assignment22.dll
+C:\Users\keyur\source\repos\Assignment22\Assignment22\bin\Debug\net6.0\ref\Assignment22.dll
+C:\Users\keyur\source\repos\Assignment22\Assignment22\bin\Debug\net6.0\Assignment22.pdb
+C:\Users\keyur\source\repos\Assignment22\Assignment22\obj\Debug\net6.0\Assignment22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keyur\source\repos\Assignment22\Assignment22\obj\Debug\net6.0\Assignment22.AssemblyInfoInputs.cache
+C:\Users\keyur\source\repos\Assignment22\Assignment22\obj\Debug\net6.0\Assignment22.AssemblyInfo.cs
+C:\Users\keyur\source\repos\Assignment22\Assignment22\obj\Debug\net6.0\Assignment22.csproj.CoreCompileInputs.cache
+C:\Users\keyur\source\repos\Assignment22\Assignment22\obj\Debug\net6.0\Assignment22.dll
+C:\Users\keyur\source\repos\Assignment22\Assignment22\obj\Debug\net6.0\ref\Assignment22.dll
+C:\Users\keyur\source\repos\Assignment22\Assignment22\obj\Debug\net6.0\Assignment22.pdb
+C:\Users\keyur\source\repos\Assignment22\Assignment22\obj\Debug\net6.0\Assignment22.genruntimeconfig.cache
+C:\Users\keyur\source\repos\Assignment22\Assignment22\obj\Debug\net6.0\Assignment22.csproj.AssemblyReference.cache
