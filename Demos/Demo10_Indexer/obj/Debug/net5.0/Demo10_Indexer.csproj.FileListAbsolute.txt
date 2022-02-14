@@ -1,0 +1,15 @@
+C:\Users\keyur\source\repos\Demos\Demo10_Indexer\bin\Debug\net5.0\Demo10_Indexer.exe
+C:\Users\keyur\source\repos\Demos\Demo10_Indexer\bin\Debug\net5.0\Demo10_Indexer.deps.json
+C:\Users\keyur\source\repos\Demos\Demo10_Indexer\bin\Debug\net5.0\Demo10_Indexer.runtimeconfig.json
+C:\Users\keyur\source\repos\Demos\Demo10_Indexer\bin\Debug\net5.0\Demo10_Indexer.runtimeconfig.dev.json
+C:\Users\keyur\source\repos\Demos\Demo10_Indexer\bin\Debug\net5.0\Demo10_Indexer.dll
+C:\Users\keyur\source\repos\Demos\Demo10_Indexer\bin\Debug\net5.0\ref\Demo10_Indexer.dll
+C:\Users\keyur\source\repos\Demos\Demo10_Indexer\bin\Debug\net5.0\Demo10_Indexer.pdb
+C:\Users\keyur\source\repos\Demos\Demo10_Indexer\obj\Debug\net5.0\Demo10_Indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keyur\source\repos\Demos\Demo10_Indexer\obj\Debug\net5.0\Demo10_Indexer.AssemblyInfoInputs.cache
+C:\Users\keyur\source\repos\Demos\Demo10_Indexer\obj\Debug\net5.0\Demo10_Indexer.AssemblyInfo.cs
+C:\Users\keyur\source\repos\Demos\Demo10_Indexer\obj\Debug\net5.0\Demo10_Indexer.csproj.CoreCompileInputs.cache
+C:\Users\keyur\source\repos\Demos\Demo10_Indexer\obj\Debug\net5.0\Demo10_Indexer.dll
+C:\Users\keyur\source\repos\Demos\Demo10_Indexer\obj\Debug\net5.0\ref\Demo10_Indexer.dll
+C:\Users\keyur\source\repos\Demos\Demo10_Indexer\obj\Debug\net5.0\Demo10_Indexer.pdb
+C:\Users\keyur\source\repos\Demos\Demo10_Indexer\obj\Debug\net5.0\Demo10_Indexer.genruntimeconfig.cache

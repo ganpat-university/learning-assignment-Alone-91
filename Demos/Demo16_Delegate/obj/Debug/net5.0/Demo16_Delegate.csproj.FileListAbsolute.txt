@@ -1,0 +1,15 @@
+C:\Users\keyur\source\repos\Demos\Demo16_Delegate\bin\Debug\net5.0\Demo16_Delegate.exe
+C:\Users\keyur\source\repos\Demos\Demo16_Delegate\bin\Debug\net5.0\Demo16_Delegate.deps.json
+C:\Users\keyur\source\repos\Demos\Demo16_Delegate\bin\Debug\net5.0\Demo16_Delegate.runtimeconfig.json
+C:\Users\keyur\source\repos\Demos\Demo16_Delegate\bin\Debug\net5.0\Demo16_Delegate.runtimeconfig.dev.json
+C:\Users\keyur\source\repos\Demos\Demo16_Delegate\bin\Debug\net5.0\Demo16_Delegate.dll
+C:\Users\keyur\source\repos\Demos\Demo16_Delegate\bin\Debug\net5.0\ref\Demo16_Delegate.dll
+C:\Users\keyur\source\repos\Demos\Demo16_Delegate\bin\Debug\net5.0\Demo16_Delegate.pdb
+C:\Users\keyur\source\repos\Demos\Demo16_Delegate\obj\Debug\net5.0\Demo16_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keyur\source\repos\Demos\Demo16_Delegate\obj\Debug\net5.0\Demo16_Delegate.AssemblyInfoInputs.cache
+C:\Users\keyur\source\repos\Demos\Demo16_Delegate\obj\Debug\net5.0\Demo16_Delegate.AssemblyInfo.cs
+C:\Users\keyur\source\repos\Demos\Demo16_Delegate\obj\Debug\net5.0\Demo16_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\keyur\source\repos\Demos\Demo16_Delegate\obj\Debug\net5.0\Demo16_Delegate.dll
+C:\Users\keyur\source\repos\Demos\Demo16_Delegate\obj\Debug\net5.0\ref\Demo16_Delegate.dll
+C:\Users\keyur\source\repos\Demos\Demo16_Delegate\obj\Debug\net5.0\Demo16_Delegate.pdb
+C:\Users\keyur\source\repos\Demos\Demo16_Delegate\obj\Debug\net5.0\Demo16_Delegate.genruntimeconfig.cache

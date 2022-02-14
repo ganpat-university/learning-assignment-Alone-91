@@ -1,0 +1,15 @@
+C:\Users\keyur\source\repos\Demos\Demo15_IComparable\bin\Debug\net5.0\Demo15_IComparable.exe
+C:\Users\keyur\source\repos\Demos\Demo15_IComparable\bin\Debug\net5.0\Demo15_IComparable.deps.json
+C:\Users\keyur\source\repos\Demos\Demo15_IComparable\bin\Debug\net5.0\Demo15_IComparable.runtimeconfig.json
+C:\Users\keyur\source\repos\Demos\Demo15_IComparable\bin\Debug\net5.0\Demo15_IComparable.runtimeconfig.dev.json
+C:\Users\keyur\source\repos\Demos\Demo15_IComparable\bin\Debug\net5.0\Demo15_IComparable.dll
+C:\Users\keyur\source\repos\Demos\Demo15_IComparable\bin\Debug\net5.0\ref\Demo15_IComparable.dll
+C:\Users\keyur\source\repos\Demos\Demo15_IComparable\bin\Debug\net5.0\Demo15_IComparable.pdb
+C:\Users\keyur\source\repos\Demos\Demo15_IComparable\obj\Debug\net5.0\Demo15_IComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keyur\source\repos\Demos\Demo15_IComparable\obj\Debug\net5.0\Demo15_IComparable.AssemblyInfoInputs.cache
+C:\Users\keyur\source\repos\Demos\Demo15_IComparable\obj\Debug\net5.0\Demo15_IComparable.AssemblyInfo.cs
+C:\Users\keyur\source\repos\Demos\Demo15_IComparable\obj\Debug\net5.0\Demo15_IComparable.csproj.CoreCompileInputs.cache
+C:\Users\keyur\source\repos\Demos\Demo15_IComparable\obj\Debug\net5.0\Demo15_IComparable.dll
+C:\Users\keyur\source\repos\Demos\Demo15_IComparable\obj\Debug\net5.0\ref\Demo15_IComparable.dll
+C:\Users\keyur\source\repos\Demos\Demo15_IComparable\obj\Debug\net5.0\Demo15_IComparable.pdb
+C:\Users\keyur\source\repos\Demos\Demo15_IComparable\obj\Debug\net5.0\Demo15_IComparable.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\keyur\source\repos\Demos\Demo11_Interface\bin\Debug\net5.0\Demo11_Interface.exe
+C:\Users\keyur\source\repos\Demos\Demo11_Interface\bin\Debug\net5.0\Demo11_Interface.deps.json
+C:\Users\keyur\source\repos\Demos\Demo11_Interface\bin\Debug\net5.0\Demo11_Interface.runtimeconfig.json
+C:\Users\keyur\source\repos\Demos\Demo11_Interface\bin\Debug\net5.0\Demo11_Interface.runtimeconfig.dev.json
+C:\Users\keyur\source\repos\Demos\Demo11_Interface\bin\Debug\net5.0\Demo11_Interface.dll
+C:\Users\keyur\source\repos\Demos\Demo11_Interface\bin\Debug\net5.0\ref\Demo11_Interface.dll
+C:\Users\keyur\source\repos\Demos\Demo11_Interface\bin\Debug\net5.0\Demo11_Interface.pdb
+C:\Users\keyur\source\repos\Demos\Demo11_Interface\obj\Debug\net5.0\Demo11_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keyur\source\repos\Demos\Demo11_Interface\obj\Debug\net5.0\Demo11_Interface.AssemblyInfoInputs.cache
+C:\Users\keyur\source\repos\Demos\Demo11_Interface\obj\Debug\net5.0\Demo11_Interface.AssemblyInfo.cs
+C:\Users\keyur\source\repos\Demos\Demo11_Interface\obj\Debug\net5.0\Demo11_Interface.csproj.CoreCompileInputs.cache
+C:\Users\keyur\source\repos\Demos\Demo11_Interface\obj\Debug\net5.0\Demo11_Interface.dll
+C:\Users\keyur\source\repos\Demos\Demo11_Interface\obj\Debug\net5.0\ref\Demo11_Interface.dll
+C:\Users\keyur\source\repos\Demos\Demo11_Interface\obj\Debug\net5.0\Demo11_Interface.pdb
+C:\Users\keyur\source\repos\Demos\Demo11_Interface\obj\Debug\net5.0\Demo11_Interface.genruntimeconfig.cache

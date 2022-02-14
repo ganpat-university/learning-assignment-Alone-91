@@ -1,0 +1,15 @@
+C:\Users\keyur\source\repos\Demos\Demo18_Generics\bin\Debug\net5.0\Demo18_Generics.exe
+C:\Users\keyur\source\repos\Demos\Demo18_Generics\bin\Debug\net5.0\Demo18_Generics.deps.json
+C:\Users\keyur\source\repos\Demos\Demo18_Generics\bin\Debug\net5.0\Demo18_Generics.runtimeconfig.json
+C:\Users\keyur\source\repos\Demos\Demo18_Generics\bin\Debug\net5.0\Demo18_Generics.runtimeconfig.dev.json
+C:\Users\keyur\source\repos\Demos\Demo18_Generics\bin\Debug\net5.0\Demo18_Generics.dll
+C:\Users\keyur\source\repos\Demos\Demo18_Generics\bin\Debug\net5.0\ref\Demo18_Generics.dll
+C:\Users\keyur\source\repos\Demos\Demo18_Generics\bin\Debug\net5.0\Demo18_Generics.pdb
+C:\Users\keyur\source\repos\Demos\Demo18_Generics\obj\Debug\net5.0\Demo18_Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keyur\source\repos\Demos\Demo18_Generics\obj\Debug\net5.0\Demo18_Generics.AssemblyInfoInputs.cache
+C:\Users\keyur\source\repos\Demos\Demo18_Generics\obj\Debug\net5.0\Demo18_Generics.AssemblyInfo.cs
+C:\Users\keyur\source\repos\Demos\Demo18_Generics\obj\Debug\net5.0\Demo18_Generics.csproj.CoreCompileInputs.cache
+C:\Users\keyur\source\repos\Demos\Demo18_Generics\obj\Debug\net5.0\Demo18_Generics.dll
+C:\Users\keyur\source\repos\Demos\Demo18_Generics\obj\Debug\net5.0\ref\Demo18_Generics.dll
+C:\Users\keyur\source\repos\Demos\Demo18_Generics\obj\Debug\net5.0\Demo18_Generics.pdb
+C:\Users\keyur\source\repos\Demos\Demo18_Generics\obj\Debug\net5.0\Demo18_Generics.genruntimeconfig.cache
